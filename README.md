@@ -1,10 +1,10 @@
 # ExmenSQL
 
-Carpeta diagramas
-Carpeta dtablas y datos
-Carpeta consultas
+Carpeta diagramas.
+Carpeta tablas y datos.
+Carpeta consultas.
 
- Sistema de Gestión Médica
+ ## Sistema de Gestión Médica
 
 ##  Descripción
 
