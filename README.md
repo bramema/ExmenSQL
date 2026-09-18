@@ -106,12 +106,5 @@ Finalmente, se pueden ejecutar las consultas `SELECT` para obtener diferentes re
 
 
 
-## 👨‍💻 Autor
-
-**Brayan Medina**
-
-Proyecto académico realizado para practicar conceptos de **SQL y bases de datos relacionales**.
-
-
 
 
