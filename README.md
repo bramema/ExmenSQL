@@ -56,25 +56,8 @@ Entre ellas:
 1. Número de pacientes atendidos por cada médico.
 2. Total de días de vacaciones por empleado.
 3. Médicos con mayor cantidad de horas de consulta.
-4. Número de sustituciones realizadas por cada médico.
 5. Médicos que están actualmente en sustitución.
-6. Horas de consulta por médico y día.
 7. Médico con mayor cantidad de pacientes.
-8. Empleados con más de 10 días de vacaciones disfrutadas.
-9. Médicos que realizan una sustitución.
-10. Promedio de horas de consulta.
-11. Pacientes atendidos por médicos relacionados con empleados.
-12. Médicos con más de 5 pacientes.
-13. Vacaciones por tipo de empleado.
-14. Pacientes por tipo de médico.
-15. Horas de consulta por médico y día.
-16. Sustituciones por tipo de médico.
-17. Pacientes por médico y especialidad.
-18. Personal con más de 20 días de vacaciones planificadas.
-19. Pacientes relacionados con médicos en sustitución.
-20. Horas de consulta por especialidad y día.
-
----
 
 ##  Instalación
 
